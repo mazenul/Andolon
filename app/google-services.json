@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036131525792",
+    "project_id": "andolon-63f49",
+    "storage_bucket": "andolon-63f49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036131525792:android:4fc88386a80332eb9255c5",
+        "android_client_info": {
+          "package_name": "com.example.multimodalchatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036131525792-f5idh99k5gjplindtrfdael5q0qfoqre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multimodalchatbot",
+            "certificate_hash": "0b26a1a51ac18a35c03815140fa06bc9d6debf6f"
+          }
+        },
+        {
+          "client_id": "1036131525792-nfl4aeq0q99usc3q0m5ka4bcvae08omh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKL9XWpftjs9k8Z0QYBsBYW49lSMxTxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036131525792-nfl4aeq0q99usc3q0m5ka4bcvae08omh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
